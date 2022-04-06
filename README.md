@@ -47,10 +47,10 @@ Seaborn - v0.11.2
 
 
 ## Acknowledgements
-Give credit here.
+
 - This project was inspired by the teachings and academic curriculum from IIIT Bangalore and UpGrad.
 - References: Lectures as part of the academics.
 
 
 ## Contact
-Created by [@DineshKambham7] - feel free to contact me!
+Created by @DineshKambham7 - feel free to contact me!
